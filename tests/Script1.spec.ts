@@ -1,4 +1,6 @@
-import {expect, test, chromium} from "@playwright/test"
+    // Launch the broswer Manually
+
+import { test, chromium} from "@playwright/test"
 
 test("Open the Application", async ({}) => {
 
@@ -12,5 +14,4 @@ test("Open the Application", async ({}) => {
     await page.goto("http://www.google.com")
 
     await page.close()
-
 })
