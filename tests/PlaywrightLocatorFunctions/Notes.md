@@ -21,3 +21,9 @@ locator.type() - type function is used to type the text character by character i
             Supported elements
             <input type = "radio">
             <input type = "checkbox">
+
+5. uncheck() - used to uncheck the checkbox
+            <input type = "radio">
+            <input type = "checkbox">
+
+6. inputvalue() - 
