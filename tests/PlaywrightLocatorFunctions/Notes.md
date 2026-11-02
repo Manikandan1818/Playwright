@@ -1,0 +1,18 @@
+Playwright Locator Functions
+=============================
+
+Used to perform operation on the Web elements.
+
+1. click() - Click function used to click on the element (button, link, checkbox, radiobutton, images, menu items)
+            - waits for the element to be visible and enable
+
+2. fill() - used to enter the text into input fields or multilint <textarea> elements
+          -  handle multiple lines using template literals (``) or \n (new line)
+          - automaticlly waits for the element to be visible and editable
+          - its clear and fill the value
+          - override the existing value present in the textbox or multiline box
+ - or - 
+locator.type() - type function is used to type the text character by character in the textbox. 
+                 But now it's depecreated it will not overide the existing value.
+
+3. 
