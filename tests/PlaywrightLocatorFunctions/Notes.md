@@ -15,4 +15,9 @@ Used to perform operation on the Web elements.
 locator.type() - type function is used to type the text character by character in the textbox. 
                  But now it's depecreated it will not overide the existing value.
 
-3. 
+3. clear () - used to existing value in the textbox or multiline box
+
+4. check() - used to check the checkbox or radio button 
+            Supported elements
+            <input type = "radio">
+            <input type = "checkbox">
