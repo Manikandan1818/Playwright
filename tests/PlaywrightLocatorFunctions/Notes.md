@@ -26,4 +26,4 @@ locator.type() - type function is used to type the text character by character i
             <input type = "radio">
             <input type = "checkbox">
 
-6. inputvalue() - 
+6. inputvalue() - used to current value get from the textbox or multiline textbox
