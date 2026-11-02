@@ -59,4 +59,3 @@ import {test} from "@playwright/test"
         await page.waitForTimeout(5000)
 
 })
-
