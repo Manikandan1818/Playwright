@@ -1,8 +1,8 @@
 import {test} from "@playwright/test"
 
 
-test("Locators function", async ({page})=> {
-    await page.goto("https://senthilsmartqahub.blogspot.com/2025/04/tooltip.html")
+test("Locators function", async ({page})=> {    
+    await page.goto("https://senthilsmartqahub.blogspot.com/2025/11/quantity-update.html")
 
     const titlevalue = await page.locator(".tooltip-link").getAttribute("title")
 

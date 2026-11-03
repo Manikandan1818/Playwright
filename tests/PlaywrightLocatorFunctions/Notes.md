@@ -45,3 +45,8 @@ locator.type() - type function is used to type the text character by character i
 
         Syntex : GetAttribute(attribute name) - it will return the respective attribute value
 
+        <tagname attributename = "attributevalue" attributename = "attributevalue">
+
+8. textcontenet() - use when you need all text (visible or hidden)
+                    
+                    used to get the text of the element
