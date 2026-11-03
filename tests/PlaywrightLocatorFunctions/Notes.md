@@ -27,3 +27,7 @@ locator.type() - type function is used to type the text character by character i
             <input type = "checkbox">
 
 6. inputvalue() - used to current value get from the textbox or multiline textbox
+            fill() - set a value
+            inputvalue() - read a value
+
+7. getattribute() - used to get the attribute vlue from the elements
