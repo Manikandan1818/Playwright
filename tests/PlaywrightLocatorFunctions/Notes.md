@@ -31,3 +31,11 @@ locator.type() - type function is used to type the text character by character i
             inputvalue() - read a value
 
 7. getattribute() - used to get the attribute vlue from the elements
+            href
+            src
+            value
+            type
+            placeholder
+            id
+            class
+            disabled
