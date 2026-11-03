@@ -1,3 +1,6 @@
+https://senthilsmartqahub.blogspot.com/2025/04/tooltip.html
+
+
 Playwright Locator Functions
 =============================
 
@@ -40,4 +43,5 @@ locator.type() - type function is used to type the text character by character i
             class
             disabled
 
-https://senthilsmartqahub.blogspot.com/2025/04/tooltip.html
+        Syntex : GetAttribute(attribute name) - it will return the respective attribute value
+
