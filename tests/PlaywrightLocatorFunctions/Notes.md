@@ -39,3 +39,5 @@ locator.type() - type function is used to type the text character by character i
             id
             class
             disabled
+
+https://senthilsmartqahub.blogspot.com/2025/04/tooltip.html
