@@ -11,9 +11,7 @@ test("Clear value functions", async ({page})=> {
     const cityValue= page.getByPlaceholder("Enter city")
 
     await cityValue.clear()
-    await cityValue.fill("Madurai")
 
-   
-
+    await cityValue.fill("Madurai") 
 
 })
